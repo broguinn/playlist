@@ -1,4 +1,19 @@
 // Complete Day 1 goals here
+let mySongs = ["Sunflower", "Lean On Me", "Weak"];
+
+let songArtists = ["Post Malone", "Bill Withers", "AJR"];
+
+let songImages = [
+  "",
+  "",
+  ""
+];
+
+let songLinks = [ 
+  "",
+  "",
+  ""
+]
 
 function displaySongInfo() {
   // Complete the Day 2 goals inside this function
